@@ -4,6 +4,6 @@
 
 A template website built with a focus on understanding HTML5 and CSS3.
 
-Initial design by Brad Traversy at www.traversymedia.com.
+Initial design by [Brad Traversy](https://github.com/bradtraversy) with [Traversy Media](http://traversymedia.com/).
 
 From Traversy's Udemy course entitled [Modern HTML & CSS From The Beginning (Including Sass)](https://www.udemy.com/modern-html-css-from-the-beginning/).
