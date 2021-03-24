@@ -1,4 +1,4 @@
-# [NewsGrid](https://www.nolanstrait.com/)
+# [NewsGrid](https://dazzling-mestorf-202352.netlify.app/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1f1da777-a77c-487b-8175-2fdc878fc3be/deploy-status)](https://app.netlify.com/sites/dazzling-mestorf-202352/deploys)
 
